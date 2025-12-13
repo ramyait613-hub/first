@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>embedding video</title>
+</head>
+<body>
+  <h1>html video</h1><video width="320" height="240" controls=""><source src="%E2%80%AAC:/Users/IT%20DS%20LAB/Downloads/mov_bbb.mp4" type="video/mp4"> Your browser does not support the video tag.</video>
+</body>
+</html>
